@@ -1,0 +1,4 @@
+Model,Clusters,Noise %,Silhouette,Davies-Bouldin,Calinski-Harabasz,Runtime (s)
+K-Means (k=5),5,0.0,0.2252,1.2333,1752.8,0.111
+"DBSCAN (eps=1.00, ms=5)",2,3.03,0.3799,0.5782,24.62,0.054
+"Agglomerative (Ward, k=5)",5,0.0,0.138,1.6408,1318.02,0.123
