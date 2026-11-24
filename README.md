@@ -1,7 +1,7 @@
 # 🛍️ Retail Customer Segmentation & Sales Intelligence
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://retail-customer-segmentation.streamlit.app)
-*(Live Cloud Deployment: [Open Live Application](https://retail-customer-segmentation.streamlit.app))*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dakshjoshi10-retail-customer-segmentati-appstreamlit-app-0fkzum.streamlit.app/)
+*(Live Cloud Deployment: [Open Live Application](https://dakshjoshi10-retail-customer-segmentati-appstreamlit-app-0fkzum.streamlit.app/))*
 
 An enterprise-grade customer analytics and machine learning solution built on the **Kaggle UK Online Retail dataset** (~540k transactions). This system implements automated data cleaning pipelines with **cancellation netting**, product catalog intelligence, customer behavioral feature engineering (RFM+), multi-algorithm unsupervised clustering (**K-Means**, **DBSCAN**, **Agglomerative Hierarchical**), Market Basket Analysis, and an interactive Streamlit dashboard.
 
